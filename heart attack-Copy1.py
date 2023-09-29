@@ -13,7 +13,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from sklearn.metrics import confusion_matrix
 import streamlit as st 
-st.("myfirst app")
+st.write("myfirst app")
 
 
 # In[2]:
